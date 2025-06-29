@@ -52,10 +52,24 @@ http://localhost:3000/api
 
 ---
 
+## 🚀 Deployment
+
+To deploy this project to a production environment:
+
+1. **Build the application**:
+
+   ```bash
+   npm run build
+   ```
+
+2. **Start the server**:
+
+   ```bash
+   npm run start
+   ```
+
+3. Host the application on platforms like **Render**, **Vercel**, **Heroku**, or a custom **VPS** with **PM2** or **Docker**.
+
 ## 📄 License
 
 [MIT](LICENSE)
-
----
-
-Let me know if you want the commands adapted for `yarn`, Docker setup, or monorepo structure.
