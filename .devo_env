@@ -1,0 +1,9 @@
+; BASE URL OR API DOCUMENTATION URL
+BASE_URL="http://localhost:3000"
+PORT=3000
+
+; MONGO CONNECTION URL
+MONGO_URL="mongodb+srv://sn2g298:3M1C7ktdxaBmphTv@cluster0.wmkmusl.mongodb.net/user_document_management?retryWrites=true&w=majority&appName=Cluster0"
+
+; JWT SECRET
+JWT_SECRET=veryStrongSecret123!@#
